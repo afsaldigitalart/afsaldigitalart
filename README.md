@@ -1,5 +1,5 @@
 # 💫 Who am I?
-Hi there! 👋<br>I'm Afsal Shaji, a student developer passionate about app development, AI/ML, and electronics.<br><br>📱 Currently learning Flutter to build mobile applications.<br>🤖 Working on Arduino & ESP32 projects, integrating hardware with software.<br>🧠 Exploring AI & Machine Learning, aiming to develop intelligent systems.<br>🐍 Python is my go-to language, but I also work with C, C++, and Dart.<br>Always eager to learn, innovate, and collaborate on exciting projects! 🚀
+Hi there! 👋<br>I'm Afsal Shaji, a student developer passionate about app development, AI/ML, and electronics.<br><br>📱 Currently learning Cyber Security!.<br>🤖 Working on Arduino & ESP32 projects, integrating hardware with software.<br>🧠 Exploring AI & Machine Learning, aiming to develop intelligent systems.<br>🐍 Python is my go-to language, but I also work with C, C++, and Dart.<br>Always eager to learn, innovate, and collaborate on exciting projects! 🚀
 
 
 ## 🌐 My Socials
