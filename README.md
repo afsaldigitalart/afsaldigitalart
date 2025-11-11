@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ Afsal Shaji
 
-**Student Developer | AI/ML Enthusiast | Cybersecurity Explorer**
+**Currently Im doing everything I could and im LOVING ITTTT!!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=afsaldigitalart\&style=flat-square\&color=blue)
 
