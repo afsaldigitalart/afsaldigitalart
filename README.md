@@ -12,8 +12,7 @@
 
 ## 💡 About Me
 
-* 👋 Hey there! I'm **Afsal Shaji** — a curious mind diving into **AI, Cyber Security**, and **Hardware Programming**.
-* 🔐 Currently exploring the world of **Ethical Hacking** and **Linux-based Penetration Testing**.
+* 👋 Hey there! I'm **Afsal Shaji** — a curious mind diving into **Python**, and **Hardware Programming**.
 * 🤖 I tinker with **Arduino/ESP32**, bridging the gap between hardware and software.
 * 🧠 Building smart systems using **Python, C, C++** — learning every day.
 * 🌱 Always open to collaboration and new challenges.
